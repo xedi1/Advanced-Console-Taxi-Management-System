@@ -2,13 +2,6 @@
 
 <br>
 
-```
-╔════════════════════════════════════════════════════╗
-║              ADVANCED TAXI SYSTEM                  ║
-║                  (Powered by Edi)                  ║
-╚════════════════════════════════════════════════════╝
-```
-
 # 🚖 Advanced Console Taxi Management System
 
 **A comprehensive console-based ride-hailing simulation written entirely in pure C**
